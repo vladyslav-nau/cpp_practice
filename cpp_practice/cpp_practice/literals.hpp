@@ -1,0 +1,6 @@
+#ifndef H_LITERALS_AND_MAGIC_NUMBERS_H
+#define H_LITERALS_AND_MAGIC_NUMBERS_H
+
+void literals_main();
+
+#endif // !H_LITERALS_AND_MAGIC_NUMBERS_H
