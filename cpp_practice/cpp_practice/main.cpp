@@ -1,11 +1,11 @@
 #include <iostream>
-#include "practice1.hpp"
+#include "practice_parity.hpp"
 
 int main()
 {
 	std::cout << "Hello! CPP_PRACTICE." << std::endl;
 
-	practice_main();
+	PracticeMain();
 
 	return 0;
 }

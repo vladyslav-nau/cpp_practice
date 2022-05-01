@@ -142,10 +142,12 @@
     <ClCompile Include="literals.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="practice1.cpp" />
+    <ClCompile Include="practice_parity.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="literals.hpp" />
     <ClInclude Include="practice1.hpp" />
+    <ClInclude Include="practice_parity.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
